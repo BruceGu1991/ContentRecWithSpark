@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grouplens.lenskit:lenskit-groovy:3.0-T1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grouplens.lenskit/lenskit-groovy/3.0-T1/8c1f8c21bfd888bff95da8d593e0a9d48ac2b80a/lenskit-groovy-3.0-T1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grouplens.lenskit/lenskit-groovy/3.0-T1/860adf5d4b761f575a52e41b92fd5b062d298d1/lenskit-groovy-3.0-T1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
